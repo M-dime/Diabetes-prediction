@@ -14,3 +14,4 @@
 ###  * Logistic Regresion
 ###  As the target variable (Outcome) was a binary data type. THen Compare the acuracy of each model on training and testing data and choose the model with better acuracy score to build the web-app. 
 ### [Link to Colab Notebook](https://colab.research.google.com/drive/1vFrZznnZPB3c5A7a3lRNbqxwR2Qe0cBl)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
